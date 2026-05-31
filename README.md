@@ -1,9 +1,7 @@
 # Responsible Coding 2026
 
-**A Code of Conduct for Software Development in the Age of AI**  
-**By Urs Langmeier, Founder of Langmeier Backup**
-
----
+## A Code of Conduct for Software Development in the Age of AI
+By Langmeier Software, known for Langmeier Backup and aBusiness Suite
 
 ## 🌐 Overview
 
