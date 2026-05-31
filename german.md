@@ -1,4 +1,4 @@
-# Responsible Coding 2025
+# Responsible Coding 2026
 
 ## Code of Conduct für Softwareentwicklung im Zeitalter von KI
 
@@ -79,5 +79,5 @@ Jeder Entwickler ist nicht nur für den Code verantwortlich, sondern auch für d
 ## Mach mit
 
 Nutze es. Passe es an. Teile es.
-Lass uns gemeinsam Software entwickeln, hinter der wir auch 2025 noch stehen können.
+Lass uns gemeinsam Software entwickeln, hinter der wir auch 2026 noch stehen können.
 
