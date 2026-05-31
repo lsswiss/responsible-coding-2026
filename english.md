@@ -85,4 +85,4 @@ Urs Langmeier is the founder and CEO of Langmeier Backup, a Swiss software compa
 ### Join Us
 
 Use it. Adapt it. Share it.  
-Let’s build software we can stand behind – in 2025 and beyond.
+Let’s build software we can stand behind – in 2026 and beyond.
