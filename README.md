@@ -1,4 +1,4 @@
-# Responsible Coding 2025
+# Responsible Coding 2026
 
 **A Code of Conduct for Software Development in the Age of AI**  
 **By Urs Langmeier, Founder of Langmeier Backup**
