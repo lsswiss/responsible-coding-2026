@@ -74,3 +74,41 @@ You are free to share and adapt the content, even for commercial use – as long
 
 Pull requests are welcome – especially improvements, translations, or real-world examples.  
 Let’s build a healthier future for software development together.
+
+---
+## 📣 Invite others via Social Media
+
+Use this post template to encourage participation and commitment to responsible coding.
+
+```LinkedIN
+AI writes more code than ever. That makes responsible coding more important than ever.
+
+We are moving fast... But speed alone does not create good software.
+
+If developers merge code they don’t understand, skip architecture, or rely on AI without review, systems become harder to maintain, debug, and trust.
+
+That is why I adhere to Responsible Coding 2026: a practical code of conduct for software development in the age of AI.
+
+The idea is simple:
+
+AI should support engineering, not replace engineering discipline.
+
+Some core principles:
+
+• Understand code before using it
+• AI is a copilot, not an autopilot
+• Structure beats speed
+• Comments explain why, not what
+• Treat AI-generated code like third-party code
+• Architecture is not optional
+
+This manifesto is not against AI.
+
+It argues for clearer thinking, better systems, and stronger responsibility while using AI to build software.
+
+Read it here: https://github.com/lsswiss/responsible-coding-2026
+
+What principle do you think modern software teams should never compromise on?
+
+#SoftwareEngineering #AI #Programming #CleanCode #SoftwareArchitecture #ResponsibleAI
+```
